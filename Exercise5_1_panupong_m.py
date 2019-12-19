@@ -1,0 +1,10 @@
+num1 = 10
+num2 = 2
+sum = num1 + num2
+dele = num1 - num2
+multiply = num1 * num2
+divide = int(num1 / num2)
+print(num1, "+", num2, "=", sum)
+print(num1, "-", num2, "=", dele)
+print(num1, "*", num2, "=", multiply)
+print(num1, "/", num2, "=", divide)
